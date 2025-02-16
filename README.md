@@ -68,13 +68,20 @@ Craxs RAT is a **Remote Access Trojan (RAT)** designed to infiltrate **Android d
 
 ---
 
+## 🛡️ How to Protect Yourself from Craxs RAT
+✅ **Do NOT install apps** from unknown sources.
+✅ Always verify **app permissions** before installation.
+✅ Install **security software** and scan your phone regularly.
+✅ Monitor **battery & data usage**, as malware consumes excessive resources.
+✅ If your device behaves strangely, **perform a factory reset immediately**.
+
+🚨 **Awareness is the First Line of Defense!** Share this information to protect others from cyber threats! 🚨
+
+---
+
 ## 💳 Purchase and Contact Information
 For purchasing and more information, you can contact us via the bot: [@Contact255Bot](https://t.me/Contact255Bot).
 
 ![Craxs RAT Image 1](https://media.licdn.com/dms/image/v2/D5622AQGeQwunwr-GLg/feedshare-shrink_800/feedshare-shrink_800/0/1697641043509?e=2147483647&v=beta&t=Z7gf3AzJZT86lhn4KNeL8X5DjkVVigH_eurbAariLFM)
 
 ![Craxs RAT Image 2](https://files.selar.co/merchant-images/chimangodswill/chimangodswill-selar.co-20231024084744.jpeg)
-
----
-
-
