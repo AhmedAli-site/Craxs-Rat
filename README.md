@@ -80,7 +80,7 @@ Craxs RAT is a **Remote Access Trojan (RAT)** designed to infiltrate **Android d
 ---
 
 ## 💳 Purchase and Contact Information
-For purchasing and more information, you can contact us via the bot: [@Contact255Bot](https://t.me/Contact255Bot).
+For purchasing and more information very good price unlimited access, you can contact us via the bot: [@Contact255Bot](https://t.me/Contact255Bot).
 
 ![Craxs RAT Image 1](https://media.licdn.com/dms/image/v2/D5622AQGeQwunwr-GLg/feedshare-shrink_800/feedshare-shrink_800/0/1697641043509?e=2147483647&v=beta&t=Z7gf3AzJZT86lhn4KNeL8X5DjkVVigH_eurbAariLFM)
 
